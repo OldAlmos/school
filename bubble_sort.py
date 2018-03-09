@@ -6,7 +6,8 @@
 #  Copyright 2017 HP <HP@HP-PC>
 #
 #  Сортировка "пузырьком" целых чисел
-#    
+#
+   
 
 
 num_list=input('Input unsort sequence: ').split()
